@@ -1,0 +1,14 @@
+package be;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        // Your program starts here.
+        System.out.println( "BoseEinstein" );
+    }
+}
